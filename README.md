@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @GiovannaBalotin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou a Giovanna!
+
+- 🐞 Analista de suporte ao negocio na TOTVS
+
+- 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas.
+
+- 💻 Interesses: JavaScript, C#, Python.
 
 <!---
 GiovannaBalotin/GiovannaBalotin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
