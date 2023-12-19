@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Giovanna!
 
-- 🐞 Analista de suporte ao negocio na TOTVS
+- 🐞 Analista de sistemas na TOTVS
 
 - 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas.
 
